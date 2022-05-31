@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "956526513802",
+    "project_id": "social-media-test-app-f5588",
+    "storage_bucket": "social-media-test-app-f5588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956526513802:android:df70ffd42fba449ae3a773",
+        "android_client_info": {
+          "package_name": "com.vitaliy.social_media_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956526513802-qldgkeja9ukmfl3fsdh0qceag944tvsh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApmtJrnX908XFdCi4k-Qdf4rawbD8dpIQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956526513802-qldgkeja9ukmfl3fsdh0qceag944tvsh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
